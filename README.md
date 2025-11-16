@@ -67,10 +67,11 @@ This project is divided into two major parts:
 
 | File | Description |
 |------|--------------|
-| `Micro_Level_Analysis.ipynb` | Notebook for micro-level gait analysis including preprocessing, feature engineering, anomaly detection, and gait scoring. |
-| `Macro_Level_Analysis.ipynb` | Notebook for macro-level analysis including subject-level aggregation, anomaly detection, and classification. |
+| `Micro_Level_Analysis.ipynb` | Notebook for micro-level gait analysis including preprocessing, feature engineering, anomaly detection, and gait scoring |
+| `Macro_Level_Analysis.ipynb` | Notebook for macro-level analysis including subject-level aggregation, anomaly detection, and classification |
+| `Report.pdf` | Project documentation and conclusions |
 | `individual_contributions/` | Folder containing each member’s individual notebooks and exploratory work |
-| `README.md` | Project documentation and overview. |
+| `README.md` | Project overview |
 
 ---
 
