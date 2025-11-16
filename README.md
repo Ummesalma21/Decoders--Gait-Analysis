@@ -11,7 +11,6 @@ By applying statistical feature extraction, anomaly detection, and classificatio
 2. To extract kinematic features such as joint angle, velocity, and acceleration across gait cycles.  
 3. To detect gait anomalies using unsupervised models. 
 4. To classify gait condition (unbraced vs braced) using supervised models.
-5. To summarize gait health through a combined anomaly and classification-based gait score.
 
 ---
 
